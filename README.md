@@ -1,8 +1,8 @@
 ## Hi there 👋
-# Hi there, I'm Linh 👋
+# Hi there, I'm Nguyễn Ngọc Phương Anh 👋
 
-💻 I’m a Software Development student majoring in IT.  
-🌏 Based in Melbourne, passionate about full-stack development.  
+💻 I’m a IT student majoring in Software Development.  
+🌏 Based in Melbourne, passionate about full-stack development and technology in general.  
 ⚡ Fun fact: I love minimal design & problem-solving.
 
 ---
