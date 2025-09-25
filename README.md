@@ -15,7 +15,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnNguyen975&show_icons=true&theme=tokyonight)
 
 ---
 
